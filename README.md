@@ -51,5 +51,5 @@ Make sure to update `homepage` in `package.json`:
 
 ## 📬 Contact
 Feel free to connect with me:
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: Patrick Millares (https://www.linkedin.com/in/patrick-millares)
+- Email: millareslepatrick@gmail.com
