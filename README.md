@@ -3,7 +3,7 @@
 Welcome to my portfolio! This is a React-based web application showcasing my projects, skills, and experiences.
 
 ## 🚀 Live Demo
-Check out my portfolio live on GitHub Pages: [My Portfolio](https://your-github-username.github.io/your-repo-name)
+Check out my portfolio live on GitHub Pages: [My Portfolio](https://infinitewumbo.github.io/portfolio/)
 
 ## 🛠 Tech
 - React.js
