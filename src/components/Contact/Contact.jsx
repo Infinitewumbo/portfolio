@@ -12,7 +12,7 @@ export const Contact = () => {
             </div>
             <ul className={styles.links}>
                 <li className={styles.link}>
-                    <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+                    <img src={`${import.meta.env.BASE_URL}assets/contact/emailIcon.png`} alt="Email icon" />
                     <a href="mailto:millareslepatrick@gmail.com">millareslepatrick@gmail.com</a>
                 </li>
                 <li className={styles.link}>
@@ -23,7 +23,7 @@ export const Contact = () => {
                     <a href="https://www.linkedin.com/in/patrick-millares/">linkedin.com/in/patrick-millares/</a>
                 </li>
                 <li className={styles.link}>
-                    <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
+                    <img src={getImageUrl("contact/githubIcon.png")} alt="GitHub icon" />
                     <a href="https://www.github.com/Infinitewumbo">github.com/Infinitewumbo</a>
                 </li>
             </ul>
