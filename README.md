@@ -1,12 +1,55 @@
-# React + Vite
+# 🎨 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! This is a React-based web application showcasing my projects, skills, and experiences.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out my portfolio live on GitHub Pages: [My Portfolio](https://infinitewumbo.github.io/portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech
+- React.js
+- GitHub Pages (for deployment)
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
+```
+/portfolio
+│── /src
+│   │── /components
+│   │── /pages
+│   │── /assets
+│── /public
+│── package.json
+│── README.md
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Usage
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-github-username/your-repo-name.git
+cd your-repo-name
+```
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+### 3️⃣ Run Locally
+```sh
+npm start
+```
+
+## 🚀 Deployment
+This project is deployed using GitHub Pages. To deploy:
+```sh
+git add .
+git commit -m "Deploy portfolio"
+git push origin main
+gh-pages -d build
+```
+Make sure to update `homepage` in `package.json`:
+```json
+"homepage": "https://your-github-username.github.io/your-repo-name"
+```
+
+## 📬 Contact
+Feel free to connect with me:
+- LinkedIn: Patrick Millares (https://www.linkedin.com/in/patrick-millares)
+- Email: millareslepatrick@gmail.com
