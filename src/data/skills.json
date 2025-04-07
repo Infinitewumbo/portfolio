@@ -40,6 +40,10 @@
     "imageSrc": "skills/database.png"
   },
   {
+    "title": "CSHARP",
+    "imageSrc": "skills/Csharp.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   }
